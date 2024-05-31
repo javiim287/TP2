@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+}
+
+.contenedor{
+    display: flexbox;
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(93, 99, 150);
+    border-radius: 15px;
+    
+}
+
+
+.error {
+    color: red;
+}
+.success {
+    color: green;
+}
